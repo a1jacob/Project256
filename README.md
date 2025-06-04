@@ -1,2 +1,2 @@
-# detailmy
+# Project3
 projectinfo
