@@ -1,9 +1,10 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>IST256 - Project</h1>
 
  ### [YouTube Walkthrough](https://youtu.be/1OJ0dxcHsHM)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The goal of this project, as assigned in the course IST 256, required students to pick a data set of interest and convey a data story. While demonstrating our ability to accurate perform data analysis. I represneted the data set from  I chose the topic of food waste because of my involvement with Oxfam and Food Recovery Network (FRN), studbet led otganization set clsoing the gap between teh massive amount of food watsed and the milluion sof people that go haungry yealry.  
+
 <br />
 
 
