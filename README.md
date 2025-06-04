@@ -1,0 +1,2 @@
+# detailmy
+projectinfo
